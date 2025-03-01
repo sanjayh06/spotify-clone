@@ -1,4 +1,4 @@
-### **🎵 Spotify Clone**  
+## **🎵 Spotify Clone**  
 
 🚀 A sleek and modern **Spotify-inspired** music streaming UI. Built using **React.js** and **Tailwind CSS**, this project delivers a visually appealing and responsive design. 
 
