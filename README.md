@@ -57,7 +57,7 @@ Feel free to fork the repo, raise issues, or submit PRs to enhance the project!
 ---
 
 ## **📩 Contact**  
-💼 **Portfolio**: [Your Portfolio Link](https://sanjay6911.github.io/portfolio/#)  
+💼 **Portfolio**: [Portfolio Link](https://sanjayh.vercel.app/)  
 🔦 **GitHub**: [GitHub Profile](https://github.com/sanjayh06)  
 📧 **Email**: sanjayvj666@gmail.com  
 
